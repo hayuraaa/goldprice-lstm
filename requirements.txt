@@ -1,0 +1,10 @@
+Streamlit
+yfinance
+NumPy
+Pandas
+Scikit-Learn
+TensorFlow==2.15.0
+Plotly
+Datetime
+Math
+Time
